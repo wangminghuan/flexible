@@ -1,0 +1,26 @@
+{
+  "name": "flexible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch",
+    "build": "gulp scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangminghuan/flexible.git"
+  },
+  "author": "wmh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangminghuan/flexible/issues"
+  },
+  "homepage": "https://github.com/wangminghuan/flexible#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
